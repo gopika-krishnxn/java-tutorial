@@ -1,3 +1,6 @@
+![Self Learning Project](https://img.shields.io/badge/Self--Learning-Project-blueviolet?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Version_Control-black?style=for-the-badge)
 # Java Tutorial 🚀
 
 This repository contains **Core Java practice programs** developed as part of my **self-learning journey**.  
